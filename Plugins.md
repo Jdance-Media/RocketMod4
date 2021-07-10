@@ -13,3 +13,11 @@ Steamworks.NET.dll
 UnityEngine.dll
 UnityEngine.CoreModule.dll
 ```
+
+Once you have imported those files go back to Browse and go to Unturned Local Game Files > Extras > Rocket.Unturned and select these .dll files listed below.
+
+```
+Rocket.API.dll
+Rocket.Unturned.dll
+Rocket.Core.dll
+```
