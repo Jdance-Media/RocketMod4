@@ -1,4 +1,4 @@
-### RocketMod4 Events
+# RocketMod4 Events
 
 Events can be useful for logging things or blacklisting certain actions. Some events are not actually events in some cases but can be used as one.
 
